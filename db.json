@@ -1,8 +1,10 @@
-[
+{
+  "movies": [
     {
-        "name": "Avenger"
+      "name": "Avenger"
     },
     {
-        "name": "Titanic"
+      "name": "Titanic"
     }
-]
+  ]
+}
