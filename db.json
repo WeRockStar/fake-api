@@ -1,10 +1,22 @@
 {
   "movies": [
     {
+      "id": 1,
       "name": "Avenger"
     },
     {
+      "id": 2,
       "name": "Titanic"
+    }
+  ],
+  "categories": [
+      {
+          "id": 1,
+          "category": "Documentary"
+      },
+      {
+        "id": 2,
+        "category": "Action"
     }
   ]
 }
