@@ -2,21 +2,45 @@
   "movies": [
     {
       "id": 1,
-      "name": "Avenger"
+      "name": "Avengers: Infinity War",
+      "category": 1,
+      "duration": 140,
+      "year": 2019,
+      "description": "After the devastating events of the Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos’ actions and restore balance to the universe."
     },
     {
       "id": 2,
-      "name": "Titanic"
+      "name": "Titanic",
+      "category": 4,
+      "year": 1997,
+      "duration": 193,
+      "description": "17-year-old Rose is from an aristocratic family and is set to marry Caledon Hockley but falls in love and romances with a poor, kind-hearted artist Jack Dawson aboard the luxurious ill-fated R.M.S. Titanic."
+    },
+    {
+      "id": 3,
+      "name": "Avengers: Endgame",
+      "category": 1,
+      "duration": 140,
+      "year": 2020,
+      "description": "After the devastating events of the Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos’ actions and restore balance to the universe."
     }
   ],
   "categories": [
-      {
-          "id": 1,
-          "category": "Documentary"
-      },
-      {
-        "id": 2,
-        "category": "Action"
+    {
+      "id": 1,
+      "category": "Sci-Fi"
+    },
+    {
+      "id": 2,
+      "category": "Action & Adventure"
+    },
+    {
+      "id": 3,
+      "category": "Dramas"
+    },
+    {
+      "id": 4,
+      "category": "Romance"
     }
   ]
 }
