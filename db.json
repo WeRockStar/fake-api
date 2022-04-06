@@ -3,44 +3,74 @@
     {
       "id": 1,
       "name": "Avengers: Infinity War",
-      "category": 1,
+      "genre": 1,
       "duration": 140,
       "year": 2019,
-      "description": "After the devastating events of the Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos’ actions and restore balance to the universe."
+      "description": "After the devastating events of the Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos’ actions and restore balance to the universe.",
+      "image": "https://www.siamparagon.co.th/public/upload/5b5eed9fb72c20b885bf197e11e99681.png"
     },
     {
       "id": 2,
       "name": "Titanic",
-      "category": 4,
+      "genre": 4,
       "year": 1997,
       "duration": 193,
-      "description": "17-year-old Rose is from an aristocratic family and is set to marry Caledon Hockley but falls in love and romances with a poor, kind-hearted artist Jack Dawson aboard the luxurious ill-fated R.M.S. Titanic."
+      "description": "17-year-old Rose is from an aristocratic family and is set to marry Caledon Hockley but falls in love and romances with a poor, kind-hearted artist Jack Dawson aboard the luxurious ill-fated R.M.S. Titanic.",
+      "image": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/listing/xxlarge/titanic-et00009483-03-12-2017-06-35-24.jpg"
     },
     {
       "id": 3,
       "name": "Avengers: Endgame",
-      "category": 1,
+      "genre": 1,
       "duration": 140,
       "year": 2020,
-      "description": "After the devastating events of the Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos’ actions and restore balance to the universe."
-    }
-  ],
-  "categories": [
-    {
-      "id": 1,
-      "category": "Sci-Fi"
-    },
-    {
-      "id": 2,
-      "category": "Action & Adventure"
-    },
-    {
-      "id": 3,
-      "category": "Dramas"
+      "description": "After the devastating events of the Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos’ actions and restore balance to the universe.",
+      "image": "https://www.lcdtvthailand.com/wp-content/uploads/2021/03/Avengers-Endgame-OG.jpg"
     },
     {
       "id": 4,
-      "category": "Romance"
+      "name": "Batman Begins",
+      "genre": 2,
+      "duration": 139,
+      "year": 2005,
+      "description": "Anger fueled his actions. But to save a corrupt city from villains, he'll need to find the balance between justice and revenge.",
+      "image": "https://image.khobsanam.com/contents/2020/07/228009-digital_art-movies-Batman_Begins-Batman-bats.jpg"
+    },
+    {
+      "id": 5,
+      "name": "The Adam Project",
+      "genre": 2,
+      "duration": 106,
+      "year": 2022,
+      "description": "After accidentally crash-landing in 2022, time-traveling fighter pilot Adam Reed teams up with his 12-year-old self on a mission to save the future.",
+      "image": "https://www.playinone.com/wp-content/uploads/2022/03/the-adam-project-wide-1130x580.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Outside the wire",
+      "genre": 2,
+      "duration": 115,
+      "year": 2021,
+      "description": "In the near future, a drone pilot sent into a war zone finds himself paired with a top-secret android officer on a mission to stop a nuclear attack.",
+      "image": "https://www.playinone.com/wp-content/uploads/2021/01/AAAABcH5tSy1JOcHOGTlVjEHk19hcTTlGzEEntAto_ZEIzKtvv6GSaiiMjWA221ooe7cMZXxfv9AFg-VyQtf__VHpd4WXWxT.jpg"
+    }
+  ],
+  "genres": [
+    {
+      "id": 1,
+      "genre": "Sci-Fi"
+    },
+    {
+      "id": 2,
+      "genre": "Action & Adventure"
+    },
+    {
+      "id": 3,
+      "genre": "Dramas"
+    },
+    {
+      "id": 4,
+      "genre": "Romance"
     }
   ]
 }
